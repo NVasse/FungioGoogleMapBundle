@@ -1,5 +1,5 @@
 {
-    "name": "sovian/google-map-bundle",
+    "name": "soviann/google-map-bundle",
     "type": "symfony-bundle",
     "description": "Provides a google map integration for your Symfony2 Project.",
     "keywords": [ "google map" ],
